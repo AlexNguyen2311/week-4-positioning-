@@ -1,0 +1,12 @@
+.box1, .box2, .box3, .box4, .box5, .box6 {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-color: black;
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+}
+
+.set2 {
+  float: right;
+}
